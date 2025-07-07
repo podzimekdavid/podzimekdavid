@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I’m David Podzimek — a full stack developer and lecturer passionate about technology and continuous learning.
+__Hi, I’m David Podzimek — a full stack developer and lecturer passionate about technology and continuous learning.__
 
 Since high school, I've been involved in a variety of projects and had the opportunity to collaborate with many inspiring people. Alongside my development work, I enjoy sharing knowledge as a part-time hobby by teaching programming and electrical engineering at the high school level.
 
