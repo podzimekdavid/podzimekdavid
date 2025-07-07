@@ -9,6 +9,7 @@ This teaching role drives me to stay up-to-date with the fast-evolving world of 
 ## Skills & Interests
 
 - Programming languages: C#, Java, Structured Text (ST), JavaScript  
+- Frontend frameworks: Blazor, Vue.js, React Native  
 - Experienced in microservices architecture and design  
 - Passionate about containerization and Docker  
 - Experienced with messaging systems like Kafka and RabbitMQ  
