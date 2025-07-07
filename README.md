@@ -8,14 +8,19 @@ This teaching role drives me to stay up-to-date with the fast-evolving world of 
 
 ## Skills & Interests
 
-- Programming languages: C#, Java, Structured Text (ST), JavaScript  
+- Programming languages: C#, Java, JavaScript, Structured Text (ST)  
 - Frontend frameworks: Blazor, Vue.js, React Native  
 - Experienced in microservices architecture and design  
 - Passionate about containerization, Docker, and DevOps practices  
 - Experienced with messaging systems like Kafka and RabbitMQ  
-- Independently working on AI implementations including generative models, deployment, and building image processing pipelines  
+- Independently working on AI implementations including generative models, deployment, and building image processing pipelines
+- Hands-on experience with hardware ranging from Arduino and ESP32 devices to industrial automation using PLCs   
+- Home automation enthusiast using Home Assistant and industrial PLCs for full self-hosted smart home solutions without cloud dependencies  
+- Active participant and speaker at technology conferences  
 - Enthusiastic about exploring new technologies and methodologies  
 - Interests beyond coding include 3D printing, photography, and video production
 
 
-Feel free to connect or explore my projects!
+Feel free to connect or check out my projects!  
+Just a heads-up — most of my work is behind the scenes and can’t be shared publicly, so the repos you see here are more like highlights or smaller experiments.
+
