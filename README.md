@@ -22,5 +22,6 @@ This teaching role drives me to stay up-to-date with the fast-evolving world of 
 
 
 Feel free to connect or check out my projects!  
+
 _Just a heads-up — most of my work is behind the scenes and can’t be shared publicly, so the repos you see here are more like highlights or smaller experiments._
 
